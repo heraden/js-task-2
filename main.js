@@ -4,3 +4,5 @@ document.getElementById("bottom").addEventListener("click", function () {
    
   const end =   5 + kilometres * 0.25   
   return console.log(end) 
+  
+})
