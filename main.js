@@ -1,8 +1,8 @@
 document.getElementById("bottom").addEventListener("click", function () { 
     event.preventDefault(); 
-    let kilometres = document.getElementById("kilometr").value; 
+    let kilometer = document.getElementById("kilometer").value; 
    
-  const end =   5 + kilometres * 0.25   
+  const end =   5 + kilometer * 0.25   
   return console.log(end) 
   
 })
